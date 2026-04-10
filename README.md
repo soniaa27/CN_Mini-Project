@@ -183,8 +183,4 @@ The project successfully demonstrates a **scalable, secure, and efficient publis
 ---
 
 
-## 14. Author
 
-Sonia Sharma
-
----
